@@ -1,16 +1,11 @@
-# fruits_app
+# FruitsHUB
 
-A new Flutter project.
+E-Commerce Mobile Application.
+## Coding Features
+- Clean Architecture = Firebase - Subabase - Responsive & Adaptive Ui - Shared Preferences - Admin Dashboard
+- Payment* - notification* - Localization* - Theme Switch*
+## Application Features 
+- Displaying all fruits and featured fruits - search fruits - add / remove from favourite - detailed information about fruit
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
